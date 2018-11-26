@@ -1,5 +1,0 @@
-2018/11/16 08:07:58 [emerg] 1#1: unknown directive "1" in /etc/nginx/conf.d/default.conf:1
-2018/11/16 08:09:15 [emerg] 1#1: host not found in upstream "dreamweaver.eagleworld.net:8081" in /etc/nginx/conf.d/default.conf:2
-2018/11/16 08:11:43 [emerg] 1#1: directive "access_log" is not terminated by ";" in /etc/nginx/conf.d/default.conf:15
-2018/11/16 08:12:18 [emerg] 1#1: invalid number of arguments in "location" directive in /etc/nginx/conf.d/default.conf:15
-2018/11/16 08:22:32 [emerg] 1#1: host not found in upstream "dreamweaver.eagleworld.net:8081" in /etc/nginx/conf.d/default.conf:2
