@@ -3,7 +3,7 @@ apiVersion: v1
 metadata:
   name: eagleproxy-service
 spec:
-  type: NodePort
+  type: ClusterIP
   selector:
     app: train-schedule
   ports:
